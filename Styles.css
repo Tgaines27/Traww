@@ -9,4 +9,10 @@ html, body{
   font-size: 14px;
   font-weight: normal;
 }
+.background{
+background-image: url(image(beach.jpg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+overflow: auto;
 }
