@@ -13,10 +13,17 @@ ul {
 
 ul li {
   list-style: none;
+  display: inline-block;
+  float: left;
 
 
 }
 
 ul li a {
+  text-decoration: none;
+  font-size: 14px
+  font-Family: arial;
+  color: #1e1e1e;
+
 
 }
