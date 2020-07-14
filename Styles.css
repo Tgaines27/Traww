@@ -7,6 +7,15 @@ body {
   background-color: #eee;
 }
 
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.img-beach {
+  width: 50px;
+}
+
 
 
 nav {
