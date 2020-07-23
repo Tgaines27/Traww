@@ -3,20 +3,54 @@
   padding: 0;
 }
 
+
+video {
+  width: 25%;
+  align-content: center;
+}
+
+
+
+
+
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size:
+  font-wight:
+  text-align:right;
+  text-decoration: underline;
+  text-indent: 40px;
+  color: red;
+  word-spacing:
+  line-height: 40px;
+
+}
+
+
+}
+
+
+}
+
+
+
+
+}
+
+p {
+  font-size: 15px;
+  text-align: right;
+  line-height: inherit;
+  text-indent:
+  font-family: 'Permanent Marker', cursive;
+}
+
+
 body {
-  background-color: #eee;
-
-
-}
-
-.wrapper {
-  margin: 0 auto;
-  width: 1000px;
-}
-
+  background-color:#eee;
 
 }
-  )
 
 
 
