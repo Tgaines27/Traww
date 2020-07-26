@@ -38,6 +38,8 @@ video {
 
 .img-info {
   padding 15px;
+  font-family: sans-serif;
+  font-size: 12px;
   height:;
   flex-flow:
   float:right;
@@ -48,6 +50,11 @@ video {
 
 .Img-Beverlyhill {
   width: 350px;
+}
+
+.Img-Beach {
+width: 350px;
+
 }
 
 .img-info h2 {
