@@ -12,13 +12,17 @@
 
 .video-info {
   width: 50%;
+  float: right;
+  align-content: center;
 }
 
 .video-info p {
   padding: 30px 25px 15px;
   font-family: arial;
   color: #111;
-  line-height: 28px;
+  line-height: 40px;
+  text-align: right;
+
 }
 
 .videowrapper p {
@@ -28,22 +32,11 @@ display: block;
 }
 
 
-}
-
-
-
-video {
-  width: 50%;
-  height: 50%;
-  float:right;
-
-
-}
 
 iframe {
   padding: 30px 25px 15px;
   float: right;
-  background-color: black;
+  background-color: Black;
 }
 
 
@@ -99,7 +92,7 @@ h1 {
   text-align:right;
   text-decoration: underline;
   text-indent: 45px;
-  color: red;
+  color: black;
   word-spacing:
   line-height: 40px;
 
